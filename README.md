@@ -39,5 +39,5 @@
 
 
 - [collab](https://colab.research.google.com/drive/1RRmLmctNgsXx4Te7RhVgopuA45RzQnop?usp=sharing)
-- [Папка с выдачей ChromHMM](https://colab.research.google.com/drive/1RRmLmctNgsXx4Te7RhVgopuA45RzQnop?usp=sharing)
+- [Папка с выдачей ChromHMM](https://github.com/dreamer1978/hse_hw3_chromhmm/tree/main/Output)
 
