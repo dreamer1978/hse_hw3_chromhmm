@@ -47,3 +47,7 @@
 ![Screenshot](Output/Osteobl_10_RefSeqTES_neighborhood.png)
 ![Screenshot](Output/Osteobl_10_RefSeqTSS_neighborhood.png)
 ![Screenshot](Output/transitions_10.png)
+
+- Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
+
+
