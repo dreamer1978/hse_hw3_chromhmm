@@ -37,6 +37,7 @@
 | Osteobl   | k20me1               | k20me1.bam     | ControlStdAlnRep1.bam  |
 
 
-- [collab](https://colab.research.google.com/drive/1RRmLmctNgsXx4Te7RhVgopuA45RzQnop?usp=sharing)
 
+- [collab](https://colab.research.google.com/drive/1RRmLmctNgsXx4Te7RhVgopuA45RzQnop?usp=sharing)
 - [Папка с выдачей ChromHMM](https://colab.research.google.com/drive/1RRmLmctNgsXx4Te7RhVgopuA45RzQnop?usp=sharing)
+
