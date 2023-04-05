@@ -40,4 +40,10 @@
 
 - [collab](https://colab.research.google.com/drive/1RRmLmctNgsXx4Te7RhVgopuA45RzQnop?usp=sharing)
 - [Папка с выдачей ChromHMM](https://github.com/dreamer1978/hse_hw3_chromhmm/tree/main/Output)
+- Картинки из выдачи ChromHMM
 
+![Screenshot](Output/emissions_10.png)
+![Screenshot](ENCFF889AII_trimmed.png)
+![Screenshot](ENCFF889AII_trimmed.png)
+![Screenshot](ENCFF889AII_trimmed.png)
+![Screenshot](ENCFF889AII_trimmed.png)
