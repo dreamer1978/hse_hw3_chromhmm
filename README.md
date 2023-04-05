@@ -42,8 +42,8 @@
 - [Папка с выдачей ChromHMM](https://github.com/dreamer1978/hse_hw3_chromhmm/tree/main/Output)
 - Картинки из выдачи ChromHMM
 
-![Screenshot](Output/emissions_10.png)
 ![Screenshot](Output/Osteobl_10_overlap.png)
+![Screenshot](Output/emissions_10.png)
 ![Screenshot](Output/Osteobl_10_RefSeqTES_neighborhood.png)
 ![Screenshot](Output/Osteobl_10_RefSeqTSS_neighborhood.png)
 ![Screenshot](Output/transitions_10.png)
