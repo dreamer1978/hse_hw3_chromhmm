@@ -61,6 +61,9 @@
 |7               | k04me3                           | k04me3.bam         |
 |8               | k79me2                           | k79me2.bam         |
 |9               | H3k9me3                          | H3k9me3.bam        |
-|10              | H2az, H3k4me2                    | k20me1.bam         |
+|10              | H2az, H3k4me2, H3k27ac           | Active Promoter    |
 
 
+- 10 тип
+Распологается в зоне CPG островков. Попадает на экзон и интрон.
+![Screenshot](screenshots/evidence_type_10.png)
