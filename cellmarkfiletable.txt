@@ -1,3 +1,4 @@
+Cell_Type Histone_Modification File_Expiriment File_Control
 Osteobl H2az H2az.bam ControlStdAlnRep1.bam
 Osteobl H3k27ac H3k27ac.bam ControlStdAlnRep1.bam
 Osteobl k27me3 k27me3.bam ControlStdAlnRep1.bam
