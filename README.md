@@ -117,7 +117,7 @@
 
 
 Немного попадает на CPG островки. Попадает на экзон и интрон. Поэтому Active Promoter.
-![Screenshot](screenshots/evidence_type_10.png)
+![Screenshot](screenshots/example.png)
 
 
 - 10 тип
@@ -130,6 +130,7 @@
 - Еще картиночки из геномного браузера.
 
 ![Screenshot](screenshots/chosen_histones.png)
+![Screenshot](screenshots/whole_picture.png)
 
 
 
