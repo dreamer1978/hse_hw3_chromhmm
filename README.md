@@ -50,20 +50,91 @@
 
 - Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
 
-| Номера типов   | Хараетерные гистоновые метки     | Название           |
-|----------------|----------------------------------|--------------------|
-|1               |                                  | H2az.bam           |
-|2               | H3k27ac                          | H3k27ac.bam        |
-|3               | k27me3                           | k27me3.bam         |
-|4               | H3k36me3                         | H3k36me3.bam       |
-|5               | H3k4me1                          | H3k4me1.bam        |
-|6               | H3k4me2                          | H3k4me2.bam        |
-|7               | k04me3                           | k04me3.bam         |
-|8               | k79me2                           | k79me2.bam         |
-|9               | H3k9me3                          | H3k9me3.bam        |
-|10              | H2az, H3k4me2, H3k27ac           | Active Promoter    |
+| Номера типов   | Хараетерные гистоновые метки                       | Название           |
+|----------------|----------------------------------------------------|--------------------|
+|1               | k27me3                                             | H2az.bam           |
+|2               |                                                    | H3k27ac.bam        |
+|3               | H3k9me3                                            | k27me3.bam         |
+|4               | H3k36me3                                           | H3k36me3.bam       |
+|5               | H3k36me3, k79me2                                   | H3k4me1.bam        |
+|6               | k79me2, k20me1                                     | H3k4me2.bam        |
+|7               | k79me2, k04me3, H3k36me3, H3k4me1, H3k4me2         | k04me3.bam         |
+|8               | H2az, k04me3, H3k36me3, H3k4me1, H3k4me2           | k79me2.bam         |
+|9               | H2az, H3k36me3, H3k4me1, H3k4me2                   | H3k9me3.bam        |
+|10              | H2az, k04me3, H3k36me3, H3k4me1, H3k4me2, k79me2   | Active Promoter    |
+
+
+- 1 тип
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
+![Screenshot](screenshots/evidence_type_10.png)
+
+
+- 2 тип
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
+![Screenshot](screenshots/evidence_type_10.png)
+
+
+
+- 3 тип
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
+![Screenshot](screenshots/evidence_type_10.png)
+
+
+- 4 тип
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
+![Screenshot](screenshots/evidence_type_10.png)
+
+
+- 5 тип
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
+![Screenshot](screenshots/evidence_type_10.png)
+
+
+- 6 тип
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
+![Screenshot](screenshots/evidence_type_10.png)
+
+
+- 7 тип
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
+![Screenshot](screenshots/evidence_type_10.png)
+
+
+- 8 тип
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
+![Screenshot](screenshots/evidence_type_10.png)
+
+
+- 9 тип
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
+![Screenshot](screenshots/evidence_type_10.png)
 
 
 - 10 тип
-Распологается в зоне CPG островков. Попадает на экзон и интрон.
+
+
+Распологается в зоне CPG островков. Попадает на экзон и интрон. Поэтому Active Promoter.
 ![Screenshot](screenshots/evidence_type_10.png)
+
+
+- Еще картиночки из геномного браузера.
+
+![Screenshot](screenshots/chosen_histones.png)
