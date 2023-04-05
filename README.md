@@ -135,5 +135,6 @@
 
 # Бонус
 
-![Screenshot](screenshots/Osteobl_10_dense2.png)
+![Screenshot](screenshots/bonus.png)
+![Screenshot](screenshots/more_bonus.png)
 
