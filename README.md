@@ -133,6 +133,4 @@
 ![Screenshot](screenshots/whole_picture.png)
 
 
--------------------------
-
 # Бонус
