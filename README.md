@@ -3,7 +3,7 @@
 
 Клеточная линия: Osteobl (пришлось взять другую, т.к. нет нужных гистоновых модификаций для предыдущей гистоновой линии)
 
-- [cellmarkfiletable.txt](https://github.com/Kcchernikov/hse_hw3_chromhmm/blob/main/data/cellmarkfiletable.txt)
+- [cellmarkfiletable.txt](https://github.com/dreamer1978/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
 
 | Cell_Type | Histone_Modification | File_Expiriment| File_Control           |
 |-----------|----------------------|----------------|------------------------|
