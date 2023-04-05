@@ -135,3 +135,4 @@
 
 # Бонус
 
+- [Новый файл](https://github.com/dreamer1978/hse_hw3_chromhmm/blob/main/Osteobl_10_dense2.bed)
