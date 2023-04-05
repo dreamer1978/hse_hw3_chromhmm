@@ -5,6 +5,7 @@
 
 - Список 10-ти гистоновых меток (и соотв имен файлов) , для которых был сделан анализ
 
+
 | Гистоновых метка     | Файл           |
 |----------------------|----------------|
 | H2az                 | H2az.bam       |
@@ -18,7 +19,9 @@
 | H3k9me3              | H3k9me3.bam    |
 | k20me1               | k20me1.bam     |
 
+
 - [cellmarkfiletable.txt](https://github.com/dreamer1978/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
+
 
 | Cell_Type | Histone_Modification | File_Expiriment| File_Control           |
 |-----------|----------------------|----------------|------------------------|
@@ -32,6 +35,7 @@
 | Osteobl   | k79me2               | k79me2.bam     | ControlStdAlnRep1.bam  |
 | Osteobl   | H3k9me3              | H3k9me3.bam    | ControlStdAlnRep1.bam  |
 | Osteobl   | k20me1               | k20me1.bam     | ControlStdAlnRep1.bam  |
+
 
 - [collab](https://colab.research.google.com/drive/1RRmLmctNgsXx4Te7RhVgopuA45RzQnop?usp=sharing)
 
