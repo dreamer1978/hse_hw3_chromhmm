@@ -1,7 +1,7 @@
 # hse_hw3_chromhmm
 Домашнее задание №3 (ChromHMM)
 
-Клеточная линия: Osteobl (пришлось взять другую, т.к. нет нужных гистоновых модификаций для предыдущей гистоновой линии)
+Клеточная линия: Osteobl (пришлось взять другую, т.к. нет нужных гистоновых модификаций для предыдущей клеточной линии)
 
 - [cellmarkfiletable.txt](https://github.com/dreamer1978/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
 
