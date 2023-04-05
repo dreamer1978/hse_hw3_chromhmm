@@ -43,7 +43,7 @@
 - Картинки из выдачи ChromHMM
 
 ![Screenshot](Output/emissions_10.png)
-![Screenshot](ENCFF889AII_trimmed.png)
-![Screenshot](ENCFF889AII_trimmed.png)
-![Screenshot](ENCFF889AII_trimmed.png)
-![Screenshot](ENCFF889AII_trimmed.png)
+![Screenshot](Output/Osteobl_10_overlap.png)
+![Screenshot](Output/Osteobl_10_RefSeqTES_neighborhood.png)
+![Screenshot](Output/Osteobl_10_RefSeqTSS_neighborhood.png)
+![Screenshot](Output/transitions_10.png)
